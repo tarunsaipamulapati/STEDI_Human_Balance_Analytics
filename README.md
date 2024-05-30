@@ -22,25 +22,25 @@ In this project, I extracted the data produced by the STEDI Step Trainer sensors
 ## Project Data
 
 1. Customer records: This is the data from fulfillment and the STEDI website. It contains the following fields:
-    ->serialnumber
-    ->sharewithpublicasofdate
-    ->birthday
-    ->vregistrationdate
-    ->sharewithresearchasofdate
-    ->customername
-    ->email
-    ->lastupdatedate
-    ->phone
-    ->sharewithfriendsasofdate
+    ->serialnumber  
+    ->sharewithpublicasofdate  
+    ->birthday  
+    ->vregistrationdate  
+    ->sharewithresearchasofdate  
+    ->customername  
+    ->email  
+    ->lastupdatedate  
+    ->phone  
+    ->sharewithfriendsasofdate  
 
 2. Step Trainer records: This is the data from the motion sensor. It contains the following fields:
-    ->sensorReadingTime
-    ->serialNumber
-    ->distanceFromObject
+    ->sensorReadingTime  
+    ->serialNumber  
+    ->distanceFromObject  
 
 3. Accelerometer records: This is the data from the mobile app. It contains the following fields:
-    ->timeStamp
-    ->user
-    ->x
-    ->y
-    ->z
+    ->timeStamp  
+    ->user  
+    ->x  
+    ->y  
+    ->z  
